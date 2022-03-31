@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/returns/manifestDetails", {data:[{}],fetch:{},mutations:void 0});
